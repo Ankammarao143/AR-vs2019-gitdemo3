@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-vs2019-gitdemo3", "AR-vs2019-gitdemo3\AR-vs2019-gitdemo3.csproj", "{89B60B20-3DB2-4DE2-808E-B6DF06DFFD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B60B20-3DB2-4DE2-808E-B6DF06DFFD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B60B20-3DB2-4DE2-808E-B6DF06DFFD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B60B20-3DB2-4DE2-808E-B6DF06DFFD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B60B20-3DB2-4DE2-808E-B6DF06DFFD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF910DE-E801-460B-A37E-8C0D6B338227}
+	EndGlobalSection
+EndGlobal
