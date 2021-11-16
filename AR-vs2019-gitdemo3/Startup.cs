@@ -32,7 +32,7 @@ namespace AR_vs2019_gitdemo3
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("<h1>Hello World!<h1>");
                 });
             });
         }
